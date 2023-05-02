@@ -1,0 +1,258 @@
+[
+  {
+    "id": "1",
+    "ChefName": "Maria Rodriguez",
+    "ChefPicture": "https://images.unsplash.com/photo-1617473345933-609b7153daf4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+    "bio": "I am a passionate chef with a love for traditional Latin American cuisine. I have been cooking for over 15 years and I always try to infuse my dishes with bold and authentic flavors.",
+    "YearsOfExperience": 15,
+    "Location": "Atlanta, Boston",
+    "Likes": 2000,
+    "AllRecipes": [
+      {
+        "name": "Arroz con Pollo",
+        "ingredients": ["rice", "chicken", "onion", "garlic", "tomatoes"],
+        "cooking_method": "In a large pot, sauté onion and garlic until soft. Add chicken thighs and brown on both sides. Add chopped tomatoes and cook for 5 minutes. Add rice and stir to coat with the tomato mixture. Add enough water to cover the rice by about an inch. Bring to a boil, then reduce heat and simmer for 20-25 minutes, until rice is cooked through and liquid is absorbed.",
+        "rating": 4.7,
+        "img": "https://www.themealdb.com/images/media/meals/qpxvuq1511798906.jpg"
+      },
+      {
+        "name": "Ceviche",
+        "ingredients": ["shrimp", "lime juice", "onion", "jalapeno", "avocado"],
+        "cooking_method": "In a bowl, combine shrimp with lime juice and let marinate for 10-15 minutes. Add chopped onion, jalapeno, and avocado. Mix well and serve chilled.",
+        "rating": 4.3,
+        "img": "https://www.themealdb.com/images/media/meals/1529445434.jpg"
+      },
+      {
+        "name": "Empanadas",
+        "ingredients": ["beef", "onion", "pepper", "paprika", "olives"],
+        "cooking_method": "In a skillet, cook ground beef until browned. Add chopped onion and red bell pepper and cook until softened. Add paprika and olives and mix well. Roll out empanada dough and fill with the beef mixture. Fold in half and press edges to seal. Bake at 350F for 20-25 minutes, until golden brown.",
+        "rating": 4.6,
+        "img": "https://www.themealdb.com/images/media/meals/1529444830.jpg"
+      },
+      {
+        "name": "Classic Spaghetti Carbonara",
+        "ingredients": ["spaghetti", "bacon", "eggs", "cheese", "garlic"],
+        "cooking_method": "Cook spaghetti according to package directions. Fry bacon until crispy, then add minced garlic and cook for another minute. In a bowl, whisk together eggs and parmesan cheese. Drain spaghetti and add to the bacon mixture. Remove from heat and pour in egg mixture, stirring constantly until coated. Serve immediately.",
+        "rating": 4.5,
+        "img": "https://www.themealdb.com/images/media/meals/sutysw1468247559.jpg"
+      },
+      {
+        "name": "Grilled Chicken with Lemon and Rosemary",
+        "ingredients": ["chicken", "lemon", "rosemary", "olive", "salt"],
+        "cooking_method": "Preheat grill to medium-high heat. Season chicken with salt and brush with olive oil. Grill for 5-6 minutes per side, until cooked through. Squeeze lemon over chicken and sprinkle with chopped rosemary. Serve hot.",
+        "rating": 4.2,
+        "img": "https://www.themealdb.com/images/media/meals/1525872624.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "ChefName": "David Nguyen",
+    "ChefPicture": "https://images.unsplash.com/photo-1595273670150-bd0c3c392e46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+    "bio": "I am a self-taught chef who loves experimenting with fusion cuisine. I am constantly trying out new ingredients and techniques to create unique and delicious dishes that combine the best of different culinary traditions.",
+    "YearsOfExperience": 5,
+    "Location": "Nashville, Portland",
+    "Likes": 500,
+    "AllRecipes": [
+      {
+        "name": "Korean Beef Tacos",
+        "ingredients": ["beef", "sauce", "sesame", "garlic", "corn"],
+        "cooking_method": "In a skillet, cook ground beef until browned. Add soy sauce, sesame oil, and minced garlic. Cook for 2-3 minutes, until flavors are combined. Heat corn tortillas on a griddle or in the microwave. Top with beef mixture and garnish with chopped scallions and cilantro.",
+        "rating": 4.9,
+        "img": "https://www.themealdb.com/images/media/meals/wsqqsw1515364068.jpg"
+      },
+      {
+        "name": "Thai Basil Fried Rice",
+        "ingredients": ["rice", "shrimp", "egg", "fish sauce", "basil leaves"],
+        "cooking_method": "Cook rice according to package directions. In a wok or large skillet, cook shrimp until pink. Push to one side of the pan and add beaten egg to the other side. Scramble until set, then mix with the shrimp. Add cooked rice and fish sauce. Stir-fry for 2-3 minutes, until heated through. Add fresh basil leaves and mix well.",
+        "rating": 4.5,
+        "img": "https://www.themealdb.com/images/media/meals/tytyxu1515363282.jpg"
+      },
+      {
+        "name": "Chocolate Soufflé",
+        "ingredients": ["chocolate", "egg", "sugar", "butter", "flour"],
+        "cooking_method": "Melt chocolate and butter in a double boiler. In a separate bowl, whisk egg whites until stiff peaks form. Gradually add sugar while continuing to whisk. Fold in melted chocolate mixture and sifted flour. Pour into ramekins and bake at 375F for 10-12 minutes, until puffed and set.",
+        "rating": 4.8,
+        "img": "https://www.themealdb.com/images/media/meals/1550442508.jpg"
+      },
+      {
+        "name": "Lemon Tart",
+        "ingredients": ["lemons", "butter", "sugar", "eggs", "flour"],
+        "cooking_method": "In a food processor, pulse together butter, sugar, and flour to make crust dough. Press into tart pan and bake at 350F for 10-12 minutes, until lightly golden. In a separate bowl, mix together lemon juice, zest, eggs, and sugar to make filling. Pour into baked crust and bake for an additional 15-20 minutes, until filling is set.",
+        "rating": 4.6,
+        "img": "https://www.themealdb.com/images/media/meals/rjhf741585564676.jpg"
+      },
+      {
+        "name": "Macarons",
+        "ingredients": ["flour", "sugar", "egg", "sugar", "coloring"],
+        "cooking_method": "Sift together almond flour and powdered sugar. In a separate bowl, whisk egg whites until stiff peaks form. Gradually add sugar while continuing to whisk. Fold in dry mixture and food coloring. Pipe onto baking sheet and let sit at room temperature for 30 minutes. Bake at 300F for 12-15 minutes, until lightly golden.",
+        "rating": 4.9,
+        "img": "https://www.themealdb.com/images/media/meals/xrysxr1483568462.jpg"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "ChefName": "Alexandra Johnson",
+    "ChefPicture": "https://images.unsplash.com/photo-1512485800893-b08ec1ea59b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+    "bio": "I am a health-conscious chef who specializes in creating delicious and nutritious meals using fresh, whole ingredients. I believe that food should not only be tasty but also fuel for the body.",
+    "YearsOfExperience": 6,
+    "Location": "Chicago, Austin",
+    "Likes": 800,
+    "AllRecipes": [
+      {
+        "name": "Quinoa Salad",
+        "ingredients": ["quinoa", "tomatoes", "cucumber", "onion", "cheese"],
+        "cooking_method": "Cook quinoa according to package directions. In a separate bowl, mix together chopped cherry tomatoes, cucumber, and red onion. Add cooked quinoa and crumbled feta cheese. Mix well and serve chilled.",
+        "rating": 4.7,
+        "img": "https://www.themealdb.com/images/media/meals/urtwux1486983078.jpg"
+      },
+      {
+        "name": "Baked Salmon",
+        "ingredients": ["salmon", "lemon", "garlic", "olive oil", "salt"],
+        "cooking_method": "In a small bowl, mix together minced garlic, lemon juice, and olive oil. Place salmon fillet in a baking dish and season with salt. Pour garlic mixture over salmon. Bake at 375F for 15-20 minutes, until salmon is cooked through and flaky. Serve hot.",
+        "rating": 4.5,
+        "img": "https://www.themealdb.com/images/media/meals/xxyupu1468262513.jpg"
+      },
+      {
+        "name": "Stuffed Bell Peppers",
+        "ingredients": ["peppers", "turkey", "rice", "tomato", "cheese"],
+        "cooking_method": "Cook brown rice according to package directions. In a skillet, cook ground turkey until browned. Add cooked rice and tomato sauce. Cut tops off bell peppers and remove seeds. Stuff with turkey mixture and top with shredded mozzarella cheese. Bake at 375F for 25-30 minutes, until peppers are tender and cheese is melted.",
+        "rating": 4.8,
+        "img": "https://www.themealdb.com/images/media/meals/u55lbp1585564013.jpg"
+      },
+      {
+        "name": "Vietnamese Grilled Pork",
+        "ingredients": ["pork", "lemongrass", "garlic", "sauce", "sugar"],
+        "cooking_method": "In a food processor, blend lemongrass and garlic until finely chopped. Mix with fish sauce and sugar to make marinade. Cut pork shoulder into thin slices and marinate for at least 1 hour. Grill over high heat for 2-3 minutes per side, until charred and cooked through. Serve with rice noodles and dipping sauce.",
+        "rating": 4.7,
+        "img": "https://www.themealdb.com/images/media/meals/wxuvuv1511299147.jpg"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "ChefName": "Simon Lee",
+    "ChefPicture": "https://images.unsplash.com/flagged/photo-1561350117-501b4661f8d4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+    "bio": "I am a sushi chef with over 15 years of experience in traditional Japanese cuisine. I am passionate about using the freshest ingredients to create beautiful and delicious sushi that is both authentic and innovative.",
+    "YearsOfExperience": 15,
+    "Location": "New Orleans, San Francisco",
+    "Likes": 1200,
+    "AllRecipes": [
+      {
+        "name": "California Roll",
+        "ingredients": ["rice", "crab", "avocado", "cucumber", "nori"],
+        "cooking_method": "Cook sushi rice according to package directions. Cut imitation crab into small pieces. Slice avocado and cucumber into thin strips. Lay out nori sheet and spread rice evenly over it. Place crab, avocado, and cucumber on top of rice. Roll tightly and slice into bite-sized pieces.",
+        "rating": 4.5,
+        "img": "https://www.themealdb.com/images/media/meals/g046bb1663960946.jpg"
+      },
+      {
+        "name": "Spicy Tuna Roll",
+        "ingredients": ["sushi rice", "tuna", "sriracha", "mayonnaise", "nori"],
+        "cooking_method": "Cook sushi rice according to package directions. Mix together diced tuna, sriracha, and mayonnaise. Lay out nori sheet and spread rice evenly over it. Place tuna mixture on top of rice. Roll tightly and slice into bite-sized pieces.",
+        "rating": 4.8,
+        "img": "https://www.themealdb.com/images/media/meals/yypwwq1511304979.jpg"
+      },
+      {
+        "name": "Dragon Roll",
+        "ingredients": ["rice", "shrimp", "avocado", "eel", "nori"],
+        "cooking_method": "Cook sushi rice according to package directions. Fry shrimp tempura until crispy. Slice avocado and grilled eel into thin strips. Lay out nori sheet and spread rice evenly over it. Place shrimp tempura, avocado, and eel on top of rice. Roll tightly and slice into bite-sized pieces.",
+        "rating": 4.9,
+        "img": "https://www.themealdb.com/images/media/meals/q8sp3j1593349686.jpg"
+      },
+      {
+        "name": "Mexican Street Corn Salad",
+        "ingredients": ["corn", "mayonnaise", "cheese", "lime", "chili"],
+        "cooking_method": "Grill corn until lightly charred. Remove kernels from cob and place in a bowl. Add mayonnaise, cotija cheese, lime juice, and chili powder to taste. Mix well and serve chilled.",
+        "rating": 4.8,
+        "img": "https://www.themealdb.com/images/media/meals/k29viq1585565980.jpg"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "ChefName": "Carla Rodriguez",
+    "ChefPicture": "https://images.unsplash.com/photo-1496811425508-6d7ebb7ff32c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+    "bio": "I am a vegan chef who believes that plant-based cuisine can be both delicious and nutritious. I love to experiment with different fruits, vegetables, grains, and legumes to create innovative and flavorful vegan dishes.",
+    "YearsOfExperience": 4,
+    "Location": "Denver, Philadelphia",
+    "Likes": 900,
+    "AllRecipes": [
+      {
+        "name": "Vegan Lentil Soup",
+        "ingredients": ["lentils", "carrots", "celery", "onion", "vegetable"],
+        "cooking_method": "In a large pot, sauté chopped onion, carrots, and celery until softened. Add lentils and vegetable broth. Simmer for 30-40 minutes, until lentils are tender. Season with salt and pepper to taste.",
+        "rating": 4.5,
+        "img": "https://www.themealdb.com/images/media/meals/1529445893.jpg"
+      },
+      {
+        "name": "Vegan Pad Thai",
+        "ingredients": ["noodles", "tofu", "bean", "scallions", "peanuts"],
+        "cooking_method": "Soak rice noodles in hot water for 10 minutes, until softened. Drain and set aside. In a wok or large skillet, cook diced tofu until browned. Add bean sprouts and scallions. Stir-fry for 2-3 minutes, until tender. Toss with cooked rice noodles and garnish with chopped peanuts.",
+        "rating": 4.8,
+        "img": "https://www.themealdb.com/images/media/meals/rvxxuy1468312893.jpg"
+      },
+      {
+        "name": "Vegan Tacos",
+        "ingredients": ["corn", "beans", "avocado", "salsa", "lettuce"],
+        "cooking_method": "Heat corn tortillas on a griddle or in the microwave. In a separate pan, heat black beans until heated through. Mash avocado and mix with salsa. Assemble tacos by filling tortillas with black beans, avocado mixture, and shredded lettuce.",
+        "rating": 4.7,
+        "img": "https://www.themealdb.com/images/media/meals/ypxvwv1505333929.jpg"
+      },
+      {
+        "name": "General Tso's Chicken Wings",
+        "ingredients": ["chicken", "cornstarch", "sauce", "sugar", "garlic"],
+        "cooking_method": "In a bowl, whisk together cornstarch, soy sauce, and sugar. Add minced garlic and mix well. Dip chicken wings into mixture and place on baking sheet. Bake at 400F for 25-30 minutes, until crispy and golden. Serve hot.",
+        "rating": 4.7,
+        "img": "https://www.themealdb.com/images/media/meals/qwrtut1468418027.jpg"
+      },
+      {
+        "name": "Kung Pao Shrimp Tacos",
+        "ingredients": ["shrimp", "taco", "peanuts", "scallions", "sauce"],
+        "cooking_method": "Cook shrimp in a pan until cooked through. Toast peanuts in a separate pan until fragrant. Fill taco shells with cooked shrimp, toasted peanuts, sliced scallions, and sauce.",
+        "rating": 4.5,
+        "img": "https://www.themealdb.com/images/media/meals/qstyvs1505931190.jpg"
+      }
+    ]
+  },
+
+  {
+    "id": "6",
+    "ChefName": "Maria Rodriguez",
+    "ChefPicture": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+    "bio": "I am a pastry chef with a passion for creating sweet treats that are both beautiful and delicious. I love to experiment with different flavors and textures to create unique and memorable desserts.",
+    "YearsOfExperience": 8,
+    "Location": "Seattle, Miami",
+    "Likes": 1300,
+    "AllRecipes": [
+      {
+        "name": "Chocolate Truffles",
+        "ingredients": ["chocolate", "cream", "cocoa", "vanilla", "sea salt"],
+        "cooking_method": "In a double boiler, heat chopped dark chocolate and heavy cream until melted and smooth. Stir in cocoa powder, vanilla extract, and a pinch of sea salt. Chill mixture in the refrigerator for 2-3 hours, until firm. Roll into bite-sized balls and dust with cocoa powder or chopped nuts.",
+        "rating": 4.9,
+        "img": "https://www.themealdb.com/images/media/meals/qxutws1486978099.jpg"
+      },
+      {
+        "name": "Lemon Tart",
+        "ingredients": ["pie crust", "lemons", "sugar", "eggs", "butter"],
+        "cooking_method": "Preheat oven to 350F. In a bowl, whisk together lemon juice, sugar, eggs, and melted butter. Pour mixture into pie crust. Bake for 20-25 minutes, until filling is set and crust is golden. Let cool before serving.",
+        "rating": 4.7,
+        "img": "https://www.themealdb.com/images/media/meals/qptpvt1487339892.jpg"
+      },
+      {
+        "name": "Fruit Tart",
+        "ingredients": ["pie crust", "cheese", "fruit", "honey", "vanilla"],
+        "cooking_method": "Preheat oven to 350F. Bake pie crust for 10-15 minutes, until golden. Let cool. In a bowl, mix together cheese, honey, and vanilla extract. Spread mixture evenly over cooled crust. Arrange sliced fruit on top of cheese mixture. Chill for 1 hour before serving.",
+        "rating": 4.8,
+        "img": "https://www.themealdb.com/images/media/meals/1543774956.jpg"
+      },
+      {
+        "name": "Sichuan-Style Fried Rice",
+        "ingredients": ["rice", "eggs", "carrots", "peas", "Sichuan"],
+        "cooking_method": "Cook rice according to package directions. Heat a large wok or skillet over medium-high heat. Scramble eggs in the wok or skillet until lightly browned. Add diced carrots, peas, and cooked rice. Season with crushed Sichuan peppercorns. Stir-fry for 2-3 minutes, until vegetables are tender.",
+        "rating": 4.8,
+        "img": "https://www.themealdb.com/images/media/meals/tytyxu1515363282.jpg"
+      }
+    ]
+  }
+]
